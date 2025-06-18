@@ -13,6 +13,7 @@ novosAlunos = alunos + ["Carlos"] # Cria uma nova lista sem alterar a original
 print(alunos) # ["João", "Maria", "Pedro"]
 print(novosAlunos) # ["João", "Maria", "Pedro", "Carlos"]
 
+
 # Estruturas de dados imutáveis
 
 tupla = (1, 2, 3)
